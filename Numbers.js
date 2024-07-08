@@ -15,4 +15,4 @@ function findMissingNumber(arr){
 
 const array = [1, 2, 4, 6, 3, 7, 8];
 console.log('Missing Number: ' + findMissingNumber(array));
-console.log('Found Miising: ' + findMissingNumber(array));
+console.log('Found Missing: ' + findMissingNumber(array));
